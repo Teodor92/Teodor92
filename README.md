@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Teodor Kurtev</h1>
+![Header image](https://github.com/Teodor92/Teodor92/blob/main/header.png?raw=true "header image")
+
 <h3 align="center">Lead Software Engineer 🚀 | Mentor 🤝 | Lecturer 📚 | Shaping Code and Minds for a Brighter Tech Future!</h3>
 
 <h3 align="left">Connect with me:</h3>
