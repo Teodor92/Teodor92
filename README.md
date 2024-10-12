@@ -15,6 +15,3 @@
 
 <h3 align="left">Github Stats:</h3>
 <p><img src="https://github-readme-stats-iota-eight-77.vercel.app/api?username=Teodor92&theme=blue-green&include_all_commits=true" alt="GitHub Stats"></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/teodork"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="teodork" /></a></p><br><br>
